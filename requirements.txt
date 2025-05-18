@@ -6,3 +6,6 @@ numpy==1.25.2
 joblib==1.3.2
 gunicorn==21.2.0
 python-dotenv==1.0.0
+flask
+flask-wtf
+werkzeug==2.3.7  # Add this specific version
